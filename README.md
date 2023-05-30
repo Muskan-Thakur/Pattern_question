@@ -11,4 +11,8 @@
 
 ![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/b04776b6-d1c4-43ff-9a8d-7fdbe95b4494)
 
+4.(4.cpp)
+
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/0d81b7f8-d158-4ba4-b924-22556b27cd7c)
+
 
