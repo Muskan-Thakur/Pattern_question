@@ -7,3 +7,8 @@
 
 ![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/7d092634-e8c5-4089-b3fa-b8245bfc2072)
 
+3.(3.cpp)
+
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/b04776b6-d1c4-43ff-9a8d-7fdbe95b4494)
+
+
