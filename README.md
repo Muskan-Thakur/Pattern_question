@@ -15,4 +15,8 @@
 
 ![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/0d81b7f8-d158-4ba4-b924-22556b27cd7c)
 
+5.(5.cpp)
+
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/5aae81ae-60bf-4496-9039-3e2cd25e79f0)
+
 
