@@ -24,7 +24,7 @@
 ![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/bda8b5f3-e690-43eb-a490-b5b6d944a3e1)
 
 7.
-![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/d8591f7f-4d92-4774-9a55-1f4308132048)
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/26918625-41d4-40aa-bd99-a0f10580a068)
 
 8.
 ![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/86cacad6-fc95-44d2-8146-474adaa4249c)
