@@ -23,5 +23,8 @@
 
 ![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/bda8b5f3-e690-43eb-a490-b5b6d944a3e1)
 
+7.
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/d8591f7f-4d92-4774-9a55-1f4308132048)
+
 
 
