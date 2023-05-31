@@ -23,16 +23,74 @@
 
 ![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/bda8b5f3-e690-43eb-a490-b5b6d944a3e1)
 
-7.
+7.(7.cpp)
+
 ![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/26918625-41d4-40aa-bd99-a0f10580a068)
 
-8.
+8.(8.cpp)
+
 ![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/86cacad6-fc95-44d2-8146-474adaa4249c)
 
-9.
+9.(9.cpp)
+
 ![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/cd2c4a0e-f554-4bcf-b7ea-afeaa7ab768e)
 
+10.(10.cpp)
 
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/4cfd8b6b-d419-4bbe-b1ef-30d6c4d34e3a)
 
+11.(11.cpp)
+
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/e16d00f1-b529-40cd-afb1-9d14f24da720)
+
+12.(12.cpp)
+
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/5b80b6b5-abb0-4554-8e0a-9524302656b3)
+
+13.(13.cpp)
+
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/8967b8fa-61f0-4510-b412-854880630696)
+
+14.(14.cpp)
+
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/f8f0b8d8-1420-4286-948f-4d7f438f24ec)
+
+15.(15.cpp)
+
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/20ffb05f-2675-48e9-9e75-b7b1d3fedd49)
+
+16.(16.cpp)
+
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/7fb7e0d3-54a2-4285-9087-cdeda72b5271)
+
+17.(17.cpp)
+
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/13ae77e3-da76-4f68-9fcb-8b84f9e0754a)
+
+18.(18.cpp)
+
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/1b966b2b-13d0-48f3-ad53-5d0e08f42377)
+
+19.(19.cpp)
+
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/fd6593e0-dc36-435e-ba2b-70581731bc7b)
+
+20.(20.cpp)
+
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/3ead90ac-e3fc-4707-bc7c-e57491ec26f1)
+
+21.(21.cpp)
+
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/00205d13-7840-418b-a8a2-969b69d0e964)
+
+22.(22.cpp)
+
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/a52e6647-f79f-415e-a188-db92128bcbf4)
+
+22.(22.cpp)
+
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/c1236c83-9383-4a34-be9d-ae91b412957a)
+
+23.(23.cpp)
 
 
