@@ -30,7 +30,8 @@
 ![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/86cacad6-fc95-44d2-8146-474adaa4249c)
 
 9.
-![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/7c3debab-3ffe-4840-8634-fd8fd4494333)
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/cd2c4a0e-f554-4bcf-b7ea-afeaa7ab768e)
+
 
 
 
