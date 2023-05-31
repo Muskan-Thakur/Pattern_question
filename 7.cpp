@@ -9,9 +9,9 @@ for(int row=0;row<n;row++)
 	{
 		cout<<"*";
 	}
-for(int sp=0;sp<row+1;sp++)
+for(int sp=0;sp<2*row+1;sp++)
 {
-cout<<"  ";	
+cout<<" ";	
 }
 	for(int col=0;col<n-row;col++)
 	{
@@ -26,9 +26,9 @@ for(int row=0;row<n;row++)
 		cout<<"*";
 	}
 	
-	for(int sp=0;sp<n-row;sp++)
+	for(int sp=0;sp<2*n-2*row-1;sp++)
 	{
-		cout<<"  ";
+		cout<<" ";
 	}
 	for(int col=0;col<row+1;col++)
 	{
@@ -36,6 +36,5 @@ for(int row=0;row<n;row++)
 	}	cout<<endl;
 }
 }
-
 
 
