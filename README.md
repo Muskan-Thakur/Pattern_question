@@ -19,4 +19,9 @@
 
 ![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/5aae81ae-60bf-4496-9039-3e2cd25e79f0)
 
+6.(6.cpp)
+
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/bda8b5f3-e690-43eb-a490-b5b6d944a3e1)
+
+
 
