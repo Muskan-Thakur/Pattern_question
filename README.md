@@ -98,6 +98,11 @@
 
 24.(24.cpp)
 
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/0c0de6d7-bea4-4cfa-8fb4-5907213383ef)
+
+25.(25.cpp)
+
+
 
 
 
