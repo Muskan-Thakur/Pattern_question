@@ -57,7 +57,8 @@
 
 15.(15.cpp)
 
-![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/20ffb05f-2675-48e9-9e75-b7b1d3fedd49)
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/ba3286d8-f312-45bc-ad01-4ae820b518c8)
+
 
 16.(16.cpp)
 
@@ -92,5 +93,7 @@
 ![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/c1236c83-9383-4a34-be9d-ae91b412957a)
 
 23.(23.cpp)
+
+
 
 
