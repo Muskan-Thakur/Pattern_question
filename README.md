@@ -102,6 +102,9 @@
 
 25.(25.cpp)
 
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/c58f88ba-1b06-4dcb-9130-98568989c95f)
+
+
 
 
 
