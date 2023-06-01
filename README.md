@@ -104,6 +104,11 @@
 
 ![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/c58f88ba-1b06-4dcb-9130-98568989c95f)
 
+26.(26.cpp)
+
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/c8c80966-47f6-47fb-bcad-46253fd33777)
+
+
 
 
 
