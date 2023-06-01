@@ -94,6 +94,10 @@
 
 23.(23.cpp)
 
+![image](https://github.com/Muskan-Thakur/Pattern_question/assets/106293646/8003f944-2337-4c57-95be-508fe8a2915d)
+
+24.(24.cpp)
+
 
 
 
